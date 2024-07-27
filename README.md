@@ -7,7 +7,7 @@ For example, infrastructure spending is one costly ingredient required for a cou
 
 The data is from the  World Bank (https://databank.worldbank.org/reports.aspx?source=2&Topic=20) World Bank is the organization that provides debt to countries.
 
-The analysis on in ternational debt will unveil the follwing insights:
+The analysis on international debt will unveil the following insights:
 
   1. The total amount of debt that is owed by the countries listed in the dataset.
   
